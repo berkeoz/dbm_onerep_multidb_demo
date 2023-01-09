@@ -1,0 +1,12 @@
+[submodule "project1/db1"]
+	path = project1/db1
+	url = https://github.com/berkeoz/dbm_onerep_multidb_db1.git
+[submodule "project1/db2"]
+	path = project1/db2
+	url = https://github.com/berkeoz/dbm_onerep_multidb_db2.git
+[submodule "project2/db3"]
+	path = project2/db3
+	url = https://github.com/berkeoz/dbm_onerep_multidb_db3.git
+[submodule "project2/db4"]
+	path = project2/db4
+	url = https://github.com/berkeoz/dbm_onerep_multidb_db4.git
