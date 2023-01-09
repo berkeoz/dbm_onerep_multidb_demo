@@ -1,9 +1,0 @@
-[submodule "db1"]
-	path = db1
-	url = https://github.com/berkeoz/dbm_onerep_multidb_db1.git
-[submodule "db2"]
-	path = db2
-	url = https://github.com/berkeoz/dbm_onerep_multidb_db2.git
-[submodule "dbm_subm_demo"]
-	path = dbm_subm_demo
-	url = https://github.com/bozberkeoz/dbm_subm_demo.git
